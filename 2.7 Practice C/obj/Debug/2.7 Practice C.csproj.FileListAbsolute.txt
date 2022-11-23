@@ -1,0 +1,7 @@
+D:\Programs\VSProjects\C# 2.7 Practice\2.7 Practice C\2.7 Practice C\bin\Debug\2.7 Practice C.exe.config
+D:\Programs\VSProjects\C# 2.7 Practice\2.7 Practice C\2.7 Practice C\bin\Debug\2.7 Practice C.exe
+D:\Programs\VSProjects\C# 2.7 Practice\2.7 Practice C\2.7 Practice C\bin\Debug\2.7 Practice C.pdb
+D:\Programs\VSProjects\C# 2.7 Practice\2.7 Practice C\2.7 Practice C\obj\Debug\2.7 Practice C.csproj.AssemblyReference.cache
+D:\Programs\VSProjects\C# 2.7 Practice\2.7 Practice C\2.7 Practice C\obj\Debug\2.7 Practice C.csproj.CoreCompileInputs.cache
+D:\Programs\VSProjects\C# 2.7 Practice\2.7 Practice C\2.7 Practice C\obj\Debug\2.7 Practice C.exe
+D:\Programs\VSProjects\C# 2.7 Practice\2.7 Practice C\2.7 Practice C\obj\Debug\2.7 Practice C.pdb
